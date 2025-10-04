@@ -41,7 +41,7 @@ export const ThemeProvider = ({ children }) => {
 export const lightTheme = {
   background: 'linear-gradient(135deg, #667eea 0%, #764ba2 100%)',
   cardBackground: '#ffffff',
-  text: '#0a0a0aff',
+  text: '#040000ec',
   textSecondary: '#666666',
   border: '#e0e0e0',
   primary: '#667eea',
